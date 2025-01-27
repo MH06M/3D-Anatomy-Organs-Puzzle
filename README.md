@@ -92,5 +92,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ## 📞 Contact
-- Project Link: [GitHub Repository URL]
-- Email: mostafahany748@gmail.com
+- Project Link: [https://github.com/MH06M/3D-Anatomy-Organs-Puzzle]
+- Email: [mostafahany748@gmail.com]
