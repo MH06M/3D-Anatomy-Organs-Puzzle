@@ -3,6 +3,19 @@
 ## Overview
 Welcome to the 3D Anatomy Puzzle Game, an interactive educational experience that transforms learning human anatomy into an engaging puzzle-solving adventure. This project combines accurate medical modeling with game development to create a unique learning tool.
 
+# 🎮🧩 3D Anatomy Puzzle Game: A Hands-On Learning Experience
+
+## Overview
+Welcome to the 3D Anatomy Puzzle Game, an interactive educational experience that transforms learning human anatomy into an engaging puzzle-solving adventure. This project combines accurate medical modeling with game development to create a unique learning tool.
+
+## ⚠️ Project Status
+> **Note**: This project is currently in preliminary development stage. Users may encounter bugs or incomplete features. We welcome bug reports and further updates to help improve the game.
+>
+> Known limitations:
+> - Only one Organ available.
+> - Physics interactions might be unstable in certain scenarios
+> - Timer may not stop after finishing
+
 ## 🌟 Features
 
 ### Educational Content
@@ -38,6 +51,13 @@ Welcome to the 3D Anatomy Puzzle Game, an interactive educational experience tha
 - Git
 - Blender 3D (for development)
 
+### Project Video
+
+
+https://github.com/user-attachments/assets/f7e85d82-8629-424e-a557-42e267b0e99b
+
+
+
 ### Setup Steps
 1. Clone the repository:
 ```bash
@@ -61,6 +81,14 @@ git clone https://github.com/M_H_06M/3D-Anatomy-Organs-Puzzle.git
 - Mostafa Hazem
 - Muhammad Nasser
 
+## 🤝 Contributing
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
