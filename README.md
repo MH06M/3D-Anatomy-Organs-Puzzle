@@ -3,10 +3,6 @@
 ## Overview
 Welcome to the 3D Anatomy Puzzle Game, an interactive educational experience that transforms learning human anatomy into an engaging puzzle-solving adventure. This project combines accurate medical modeling with game development to create a unique learning tool.
 
-# 🎮🧩 3D Anatomy Puzzle Game: A Hands-On Learning Experience
-
-## Overview
-Welcome to the 3D Anatomy Puzzle Game, an interactive educational experience that transforms learning human anatomy into an engaging puzzle-solving adventure. This project combines accurate medical modeling with game development to create a unique learning tool.
 
 ## ⚠️ Project Status
 > **Note**: This project is currently in preliminary development stage. Users may encounter bugs or incomplete features. We welcome bug reports and further updates to help improve the game.
