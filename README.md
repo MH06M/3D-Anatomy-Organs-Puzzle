@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/f7e85d82-8629-424e-a557-42e267b0e99b
 ### Setup Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/M_H_06M/3D-Anatomy-Organs-Puzzle.git
+git clone https://github.com/MH06M/3D-Anatomy-Organs-Puzzle.git
 ```
 
 2. Open the project in Unity Hub
